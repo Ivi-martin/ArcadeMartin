@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="100" fill="#090a14"/>
+  <circle cx="256" cy="256" r="230" fill="#131628" stroke="#ffd700" stroke-width="8"/>
+  <circle cx="256" cy="256" r="200" fill="#0c0e1a"/>
+  <!-- Gold 4-point Shuriken -->
+  <path d="M256 60 L290 220 L450 256 L290 292 L256 452 L222 292 L62 256 L222 220 Z" fill="#ffd700" stroke="#f59e0b" stroke-width="12"/>
+  <!-- Inner blades -->
+  <path d="M256 120 L280 230 L390 256 L280 282 L256 392 L232 282 L122 256 L232 230 Z" fill="#ffffff" opacity="0.3"/>
+  <!-- Center Core -->
+  <circle cx="256" cy="256" r="48" fill="#090a14" stroke="#00f0ff" stroke-width="10"/>
+  <circle cx="256" cy="256" r="24" fill="#ffd700"/>
+  <!-- Text initials -->
+  <text x="256" y="475" text-anchor="middle" font-family="monospace" font-size="34" font-weight="900" fill="#ffd700" letter-spacing="4">ARCADE MARTIN</text>
+</svg>

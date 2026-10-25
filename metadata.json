@@ -1,0 +1,6 @@
+{
+  "name": "ARCADE MARTÍN - Gold Edition",
+  "description": "Edición profesional y oscura de Arcade Martín: juego retro de acción con mecánicas de progresión, mejoras de personaje, recompensas diarias, logros desbloqueables y tablas de clasificación global.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
